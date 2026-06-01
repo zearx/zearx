@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**args0179/args0179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Zearx/Zearx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
